@@ -1,0 +1,35 @@
+# Build output
+/sdl
+obj/
+bin/
+*.o
+*.out
+*.exe
+*.app/
+
+# Generated documentation
+doc/generated/
+
+# Debugging and profiling
+*.log
+*.dSYM/
+*.gcda
+*.gcno
+*.profraw
+*.profdata
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archives and temporary files
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.tmp
+*~
